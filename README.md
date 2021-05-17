@@ -1,5 +1,5 @@
 # Trabajo Practico #3
-Plantilla base y archivos de trabajo para el TP3
+Juan Bruni y archivos de trabajo para el TP3
 (no hagan forks o pull requests en la plantilla de no ser de para cambiar algo en la consigna)
 
 ## Script 1
